@@ -1,3 +1,19 @@
+# REAL-TIME-CHAT-APPLICATION
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: AMIT KUMAR
+
+*INTERN ID*: CT04WWL
+
+*DOMAIN*: FRONTEND WEB DEVELOPMENT
+
+*DURATION*: 4 WEEKS 
+
+*MENTOR*: NEELA SANTOSH
+
+***********************************************************************************************************************************************
+
+
 # Real-time Chat Application
 
 A WebSocket-based chat application with React front-end and Node.js backend.
