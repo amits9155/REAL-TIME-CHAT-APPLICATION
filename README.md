@@ -18,6 +18,8 @@
 
 A WebSocket-based chat application with React front-end and Node.js backend.
 
+## screenshort
+![chat app](https://github.com/amits9155/REAL-TIME-CHAT-APPLICATION/blob/60244eb7843fff1c5693de05209c00f30c9f2da2/screenshot/30.03.2025_22.26.16_REC.png)
 ## Features
 
 - Real-time messaging using WebSockets (Socket.io)
